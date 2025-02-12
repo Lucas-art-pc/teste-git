@@ -1,1 +1,0 @@
-Esse repositório é um teste para o uso de Git e GitHub.
